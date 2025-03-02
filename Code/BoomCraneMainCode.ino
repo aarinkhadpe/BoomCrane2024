@@ -11,8 +11,6 @@
 
 #define ESPNOW_WIFI_CHANNEL 6
 
-
-
 // enums
 enum shaft {
   NONE,
@@ -20,7 +18,6 @@ enum shaft {
   shaft2,
   shaft1,
 };
-
 
 // ES is short for "Extending Step"
 
